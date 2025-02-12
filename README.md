@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Vrushali Samant!
-
-### 🌟 About Me
-- 🎓 3rd-year Computer Engineering student at Vishwakarma Institute of Information Technology, Pune.
-- 🌱 Passionate about development, with a focus on building applications exploring **Machine Learning** concepts.
+# Welcome to Vrushali's GitHub Profile 👋
+### About Me ℹ️
+- 🔭 I’m currently pursuing B.Tech in Computer Engineering (3rd Year) at Vishwakarma Institute of Information Technology, Pune.3rd-year Computer Engineering student at Vishwakarma Institute of Information Technology, Pune.
+- 🌱 Passionate about development, with a focus on building applications and exploring **Machine Learning** concepts.
 
 ### 📫 Let's Connect!
 - 📧 Email: vrushalisamant500@gmail.com
@@ -10,3 +9,4 @@
 - 💻 [GitHub](https://github.com/vrushalisamant1)
 
 
+Let’s collaborate and build amazing things together! 😊
